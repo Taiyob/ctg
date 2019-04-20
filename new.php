@@ -131,6 +131,29 @@
             
             
             
+            CTBD@DESKTOP-4O5T30I MINGW64 /e/xampp/htdocs/oli (master)
+            $ git add .
+
+            CTBD@DESKTOP-4O5T30I MINGW64 /e/xampp/htdocs/oli (master)
+            $ git commit -am "some extra comments"
+            [master 2fc0a21] some extra comments
+             1 file changed, 103 insertions(+), 53 deletions(-)
+
+            CTBD@DESKTOP-4O5T30I MINGW64 /e/xampp/htdocs/oli (master)
+            $ git push origin master
+            Enumerating objects: 5, done.
+            Counting objects: 100% (5/5), done.
+            Delta compression using up to 4 threads
+            Compressing objects: 100% (3/3), done.
+            Writing objects: 100% (3/3), 1.44 KiB | 1.44 MiB/s, done.
+            Total 3 (delta 1), reused 0 (delta 0)
+            remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+            To https://github.com/Taiyob/ctg.git
+               0fad8c6..2fc0a21  master -> master
+
+            CTBD@DESKTOP-4O5T30I MINGW64 /e/xampp/htdocs/oli (master)
+
+            
             
             */
 
